@@ -6,12 +6,10 @@
 The purpose of this analysis was to review data given a specific time frame, sort, organize and create visualization to present to the CEO of Pyber.  The visualization of data will be used to interpret areas to suggest for improve and understand urban, suburban or rural areas of this ridesharing business.
 
 ## Results:
-
-There is a description of the differences in ride-sharing data among the different city types. 
+ 
 Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
 
-![image](https://user-images.githubusercontent.com/85530690/126025031-c1349966-9870-4b66-8a02-484909b0fef9.png)
-
+![image](https://user-images.githubusercontent.com/85530690/126025065-cf6f9e84-1f26-411a-b6e2-6ba853d7a5e0.png)
 
 ## Summary:
 
