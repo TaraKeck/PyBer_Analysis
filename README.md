@@ -14,3 +14,5 @@ Ride-sharing data include the total rides, total drivers, total fares, average f
 ## Summary:
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. 
+
+1. Determine the operational costs within suburban regions to examime further is services should be discontinued or shut down.  It would be beneficial to get a real sense of the regions to understand where potentials costs can be cut from an operational standpoint.  It would also be interested to do a deeper dive within the suburban markets to understand the "heat" map of most requested rides.   If it's also based on seasonality.   
